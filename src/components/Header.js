@@ -5,7 +5,7 @@ const Header = (props) => {
         <div className="Header">
             <ul className="Nav">
                 <li className="Git">
-                    <a href="">
+                    <a href="https://github.com/chrisgk47/chriskim">
                         Github
                     </a>
                 </li>
